@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/vcttai-react-learning/_react_streams_project_client.git
+[submodule "api-server"]
+	path = api-server
+	url = https://github.com/vcttai-react-learning/_react_streams_project_api_server.git
+[submodule "rtmp-server"]
+	path = rtmp-server
+	url = https://github.com/vcttai-react-learning/_react_streams_project_rtmp_server.git
